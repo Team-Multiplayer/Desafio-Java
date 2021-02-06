@@ -1,5 +1,10 @@
 package com.bankline.services;
 
-public class Registro {
+import com.bankline.models.Usuario;
 
+public class Registro {
+	//Joga no DB
+	public void registrar(Usuario user) {
+		
+	}
 }
