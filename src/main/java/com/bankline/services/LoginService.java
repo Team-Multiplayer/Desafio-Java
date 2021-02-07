@@ -2,7 +2,8 @@ package com.bankline.services;
 
 import com.bankline.models.Conta;
 
-public class Logar {
+public class LoginService {
+	
 	Conta conta;
 	
 	public Conta login(String login, String senha) {

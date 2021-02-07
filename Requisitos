@@ -1,0 +1,13 @@
+Prover um webservices com arquitetura REST para atender as demandas do site
+
+- Cadastro de usuário terá os campos login, senha, nome e cpf.
+- O login pode ser cpf, telefone, apelido com até 20 caracteres
+- Quando for realizado o cadastro, criar a conta para o usuário onde o numero da conta será o login.
+- Cadastro de Plano de Contas - finalidade das receitas e despesas
+- Registro de lançamentos de receitas, despesas e transferências contendo:
+- Data lançamento, Conta, Plano de Conta, Valor e Descrição. Em caso de transferência precisa informar a conta de destino.
+- Extrato dos Lançamentos por Conta e Período de Datas inicial e final
+- Gestão de Saldo das Contas.
+- Disponibilizar uma API Rest que deverá disponibilizar o serviço de autenticação e autorização para usuários
+- Disponibilizar uma API Rest com todas as funcionalidades citadas acima
+- Disponibilizar a documentação dos recursos do Websservices REST.
