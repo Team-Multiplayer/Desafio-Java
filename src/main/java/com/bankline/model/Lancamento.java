@@ -1,4 +1,4 @@
-package com.bankline.models;
+package com.bankline.model;
 
 import java.util.Date;
 

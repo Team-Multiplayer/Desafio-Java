@@ -1,4 +1,4 @@
-package com.bankline.models;
+package com.bankline.model;
 
 public class Conta {
 
